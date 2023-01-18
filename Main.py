@@ -1,43 +1,5 @@
 from turtle import Turtle,Screen
 import random
-# tim= Turtle()
-# screen=Screen()
-# def move_forward():
-#     tim.forward(50)
-# def forward():
-#     tim.forward(50)
-# def backward():
-#     tim.backward(50)
-#
-#
-# def counter_clock():
-#     tim.left(10)
-#
-# def clockwise():
-#     tim.right(10)
-# def clear_drawing():
-#     tim.clear()
-#     tim.penup()
-#     tim.home()
-#     tim.pendown()
-# def circle():
-#     tim.circle(50)
-#
-#
-#
-#
-# tim.speed(1)
-# screen.listen()
-#
-#
-# screen.onkey(fun=move_forward,key="space")
-# screen.onkey(fun=forward,key="w")
-# screen.onkey(fun=backward,key="s")
-# screen.onkey(fun=counter_clock,key="d")
-# screen.onkey(fun=clockwise,key="a")
-# screen.onkey(fun=circle,key="b")
-#
-# screen.onkey(fun=clear_drawing,key="c")
 race_on=False
 colors=["cadetBlue2","red","orange","blue","chocolate2","cyan2"]
 y_positions=[-70,-40,-10,20,50,80]
